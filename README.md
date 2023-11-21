@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Bagshaw - hardware design and software development expert
 - 👀 I’m interested in FPGA/SoC designs, C++, Python, Verilog, SystemVerilog, UVM, ML/AI/Data Science and chatbots
-- 🌱 I’m currently have over 6 years of experience in the aforementioned domains
+- 🌱 I currently have over 6 years of experience in the aforementioned domains
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me: johnbagshaw007@gmail.com and https://www.linkedin.com/in/jotshaw/
 
